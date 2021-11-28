@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication(scanBasePackages = "com")//这是一个springBoot应用
 public class Application {
     public static void main(String[] args) {
-        System.out.println("lzp");
+        System.out.println("lzpfflzp");
 
         ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 

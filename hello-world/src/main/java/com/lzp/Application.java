@@ -12,6 +12,7 @@ public class Application {
         System.out.println("lzpfflzp-lzp");
         System.out.println("lzpfflzp-lzp");
         System.out.println("lzpfflzp-lzp");
+        System.out.println("lzpfflzp-lzp");
         ConfigurableApplicationContext run = SpringApplication.run(Application.class, args);
 
 
